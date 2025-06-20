@@ -139,3 +139,4 @@ dist
 .prettierrc.json
 .vscode
 .vscode/*
+css/styles_old.css
